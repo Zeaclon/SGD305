@@ -1,4 +1,5 @@
 title: "Bryce's Dev Blog"
+show_title: false
 description: "SGD305 Development Log – We have fun here."
 author: Bryce Marrett
 remote_theme: "mmistakes/minimal-mistakes@4.27.3"
