@@ -1,4 +1,6 @@
 title: "Bryce's Dev Blog"
-theme: minimal-mistakes-jekyll
-author: Bryce Marrett
 description: "SGD305 Development Log – We have fun here."
+author: Bryce Marrett
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+plugins:
+  - jekyll-remote-theme
