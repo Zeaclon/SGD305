@@ -1,3 +1,7 @@
+# 🕹️ SGD305 Development Blog
+
+---
+
 ## Week 2 — Team Integration & Setup
 
 Over the past two weeks, I have been integrated into the **project team**, where we've shared our *skills, interests, and roles* to ensure smooth collaboration moving forward.  
